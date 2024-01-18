@@ -1,0 +1,22 @@
+:root{
+    /* Variables para colores de fondo*/
+    --gray-50: #d8e6ff;
+    --gray: #384a6b;
+    --primary: #1b2841;
+    --white:#FFFFFF;
+    --black:#000000;
+    
+    /* Variables para colores de texto*/
+    --text-gray:var(--gray);
+    --text-primary:var(--primary);
+    --text-white:var(--white);
+    --text-black:var(--black);
+
+
+    /* Variables para el tamaño de fuente */
+    --font-small:.75rem;
+    --font-medium:.80rem;
+    --font-normal:.95rem;
+    --font-large:1.5rem;
+    --font-xlarge:2.25rem;
+}
